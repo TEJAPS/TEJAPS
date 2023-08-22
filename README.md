@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [react node based audit application](https://github.com/TEJAPS/GmpAuditReports)
 
-- 🌱 I’m currently learning **Kubernetes, Diving into camunda, formsflow**
+- 🌱 I’m currently learning **Kubernetes, Diving into camunda, formsflow, LLM, AI tools core**
 
 - 👯 I’m looking to collaborate on [LLM](https://www.youtube.com/@Dpoint0 )
 
