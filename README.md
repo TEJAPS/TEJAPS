@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm teja</h1>
+<h1 align="center">Hi 👋, I'm Sai Teja Polisetty</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaps&label=Profile%20views&color=0e75b6&style=flat" alt="tejaps" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Diving into camunda, formsflow**
 
-- 👯 I’m looking to collaborate on [LLM](https://www.youtube.com/@Dpoint0)
+- 👯 I’m looking to collaborate on [LLM](https://www.youtube.com/@Dpoint0 )
 
 - 👨‍💻 All of my projects are available at [https://github.com/TEJAPS](https://github.com/TEJAPS)
 
@@ -44,7 +44,7 @@
 <a href="https://www.behance.net/yetopub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yetopub" height="30" width="40" /></a>
 <a href="https://hashnode.com/yetopub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="yetopub" height="30" width="40" /></a>
 <a href="https://medium.com/yetopub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yetopub" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dpoint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dpoint" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dpoint0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dpoint" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yetopub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yetopub" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tejapolisetty143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tejapolisetty143" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yetopub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yetopub" height="30" width="40" /></a>
