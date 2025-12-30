@@ -5,7 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaps" alt="tejaps" /></a> </p>
 
-<p align="left"> <a href=[https://www.youtube.com/@Dpoint0" target="blank"><img src="https://yt3.googleusercontent.com/ytc/AIdro_kAws0NES1yCsE3kJuwFiUkkF9Am1LdW4pjnc5KVtgO-A=s900-c-k-c0x00ffffff-no-rj" alt="dpoint" /></a> </p>
+
+<p align="left">
+  <a href="https://www.youtube.com/@Dpoint0" target="blank">
+    <img 
+      src="https://yt3.googleusercontent.com/ytc/AIdro_kAws0NES1yCsE3kJuwFiUkkF9Am1LdW4pjnc5KVtgO-A=s900-c-k-c0x00ffffff-no-rj" 
+      alt="dpoint" 
+      width="60"
+    />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on [RAG Agentic and fine tuning](https://www.youtube.com/@Dpoint0)
 
