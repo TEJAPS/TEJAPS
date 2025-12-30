@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaps" alt="tejaps" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yetopub" target="blank"><img src="https://img.shields.io/twitter/follow/yetopub?logo=twitter&style=for-the-badge" alt="yetopub" /></a> </p>
+<p align="left"> <a href="[https://www.youtube.com/@Dpoint0](https://www.youtube.com/@Dpoint0)" target="blank"><img src="" alt="dpoint" /></a> </p>
 
-- 🔭 I’m currently working on [react node based audit application](https://github.com/TEJAPS/GmpAuditReports)
+- 🔭 I’m currently working on [RAG Agentic and fine tuning](https://www.youtube.com/@Dpoint0)
 
-- 🌱 I’m currently learning **Kubernetes, Diving into camunda, formsflow, LLM, AI tools core**
+- 🌱 I’m currently exploring **More frameworks of MCP, Agentic, whitepapers and planning to deep dive soon into quantum ai**
 
 - 👯 I’m looking to collaborate on [LLM](https://www.youtube.com/@Dpoint0 )
 
